@@ -20,3 +20,8 @@ Two events are similar, if the following values are the same:
 -   Location
 -   Categories
 -   Start- and Endtime
+
+##Dependencies
+
+-   Python
+-   icalendar (AUR: python-icalendar-git)
